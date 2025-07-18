@@ -7,7 +7,7 @@ project:
 website:
   title: "Kevin A. Carson"
   navbar:
-    background: "blue"
+    background: "royalblue"
     left:
       - href: index.qmd
         text: Home
