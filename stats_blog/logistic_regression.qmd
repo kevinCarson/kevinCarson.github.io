@@ -1,0 +1,11 @@
+---
+title: "Fun with Statistical Modeling: Logistic Regression"
+author: "Kevin Carson"
+description: "Building a R Function to Estimate a Logistic Regression with the Maximum Likelihood Estimator"
+date: 07-17-2025
+categories: [Linear Modeling] 
+draft: false 
+image: oliver_christmas.jpg
+---
+
+This is a holder for the fun with stats logistic regression outline. Currently a work in progress. 

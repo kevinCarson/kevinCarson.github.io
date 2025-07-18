@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/about.html",
+      "/cv.html",
+      "/stats_blog/linear_regression.html",
+      "/stats_blog/logistic_regression.html",
+      "/index.html",
+      "/stats_blog.html"
+    ]
+  },
+  {
+    "listing": "/stats_blog.html",
+    "items": [
+      "/stats_blog/linear_regression.html",
+      "/stats_blog/logistic_regression.html"
+    ]
+  }
+]

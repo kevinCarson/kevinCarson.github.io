@@ -1,0 +1,29 @@
+---
+title: "Research"
+toc: true 
+
+---
+
+## Peer-Reviewed Publications
+**Carson, Kevin**. "Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital."
+(*In Progress*). [Replication Files.](https://github.com/kevinCarson)
+<details>
+<summary>Abstract</summary>
+This paper looks at the use of a coyote during 1994 to 2010 using data from the MMP (in progress). Will update later.
+</details>
+
+## Conference Presentations
+
+**Carson, Kevin** (with [Diego F. Leal](https://www.diegoleal.info/)). 2024. “A Framework for Efficient Computation of Sufficient Statistics in Relational Event Models (REM) Applied to Large Two-Mode Networks”, American Sociological Association 119th Annual Meeting, Montreal, Quebec, Canada.
+
+**Carson, Kevin** (with [Diego F. Leal](https://www.diegoleal.info/)). 2024. “Exploring the Social Dynamics of Undocumented Border Crossings: A Study on Coyote Use and Prior Coyote Experience”, American Sociological Association 119th Annual Meeting, Montreal, Quebec, Canada.
+
+**Carson, Kevin** (with [Diego F. Leal](https://www.diegoleal.info/)). 2023. “Political Use of Social Media and Offline Protest Participation: Consistent Estimates from Three Different Population-based Surveys in the U.S”, American Sociological Association 118th Annual Meeting, Philadelphia, USA.
+
+**Carson, Kevin**. 2021. “Political Usage of Social Media: A Quantitative Study on Protest Participation and Mobilization”, Mid-South Sociological Association Conference, virtual meeting.
+
+
+
+
+## Statistical Software 
+**Carson, Kevin** and [Diego F. Leal](https://www.diegoleal.info/). 2025. *dream: Dynamic Relational Event Analysis and Modeling*. R package version 0.1.0. 

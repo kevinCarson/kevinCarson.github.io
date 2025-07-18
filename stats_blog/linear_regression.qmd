@@ -1,0 +1,11 @@
+---
+title: "Fun with Statistical Modeling: Linear Regression"
+author: "Kevin Carson"
+description: "Building a R Function to Estimate a Linear Regression with the Ordinary Least Squares Estimator"
+date: 07-17-2025
+categories: [Linear Modeling] 
+draft: false 
+image: niko_sctrip.jpg
+---
+
+This is a holder for the fun with stats linear regression outline. Currently a work in progress. 

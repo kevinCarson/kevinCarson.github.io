@@ -1,0 +1,13 @@
+---
+title: "Statistical Modeling Blog"
+listing: 
+  contents: stats_blog # all Quarto docs in the `posts` directory
+  type: table  # or `table` or `grid`
+  fields: [image, date, title, categories, reading-time] # adjust fields that appear in the table
+  sort: "date desc"
+  categories: true 
+---
+
+![University of South Carolina Historic Horseshoe](images/USC_Horseshoe.jpg)
+
+This part of the site is currently in progress! Check back in the future for updated materials. **Happy Statistical Modeling!**

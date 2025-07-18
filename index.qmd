@@ -1,0 +1,51 @@
+---
+title: "Kevin A. Carson"
+subtitle: "Social Scientist/PhD Student at the [University of Arizona](https://sociology.arizona.edu/)"
+about:
+  id: hero-heading
+  template: trestles
+  image: images/Headshot_prof_110624.jpg
+    
+  links: 
+    - text: Department Homepage 🌵
+      href: https://sociology.arizona.edu/
+    - icon: github
+      text: Github
+      href: https://github.com/kevinCarson
+    - icon: envelope
+      text: Email Me!
+      href: mailto:kacarson@arizona.edu
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0009-0001-5762-2586
+    - icon: file-earmark-pdf
+      text: CV
+      href: https://www.dropbox.com/scl/fi/db7qnfl7tyubvuxr6w00t/Carson_CV_2025.pdf?rlkey=ovxaqbk2t28wy1puw1iwb9fe2&dl=0
+
+---
+
+:::{#hero-heading}
+
+I am a PhD student at the [ University of Arizona’s School of Sociology](https://sociology.arizona.edu/).
+
+I am a social scientist interested in examining **criminal behavior** and **international migration** from a myriad of analytical frames, such as **social network analysis**. Trained as a quantitative sociologist, I utilize sociological and criminological theories and employ statistical network models (e.g., [relational event models](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040722-060248)) as well as standard regression techniques (e.g., [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)) to examine the intersection of criminal behavior and international migration.
+
+For instance, my master's paper examined the social process of coyotaje at U.S.-Mexico Border from 1994 to 2010 to understand how past migratory experiences can reduce the uncertainty of the illicit market of coyotes for autonomous migrants, given the increasing militarization of the U.S.-Mexico border.  
+
+I am a strong advocate for open science and am committed to reducing barriers to knowledge dissemination. To this end, I make all code for replicating analyses from my peer-reviewed articles publicly available. Please find all replication materials [here](https://github.com/kevinCarson). On occasion, I share teaching materials on statistical models, aiming to facilitate access to scientific resources. 
+
+You can reach me directly at **[kacarson@arizona.edu](mailto:kacarson@arizona.edu)**.
+
+## Education
+
+University of Arizona | Tucson, AZ <br>
+M.A. in Sociology | 2022-2024
+
+University of South Carolina | Columbia, SC <br>
+B.S. in Sociology | 2019-2022
+
+## Research Interests
+  - Social Network Analysis
+  - Organized Crime Groups
+  - International Migration
+  - Mathematical Sociology
