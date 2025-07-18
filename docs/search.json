@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "This is a academic CV."
+  },
+  {
+    "objectID": "stats_blog.html",
+    "href": "stats_blog.html",
+    "title": "Statistical Modeling Blog",
+    "section": "",
+    "text": "University of South Carolina Historic Horseshoe\n\n\nThis part of the site is currently in progress! Check back in the future for updated materials. Happy Statistical Modeling!\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJul 17, 2025\n\n\nFun with Statistical Modeling: Linear Regression\n\n\nLinear Modeling\n\n\n1 min\n\n\n\n\n\n\n\nJul 17, 2025\n\n\nFun with Statistical Modeling: Logistic Regression\n\n\nLinear Modeling\n\n\n1 min\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stats_blog/logistic_regression.html",
+    "href": "stats_blog/logistic_regression.html",
+    "title": "Fun with Statistical Modeling: Logistic Regression",
+    "section": "",
+    "text": "This is a holder for the fun with stats logistic regression outline. Currently a work in progress."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Carson, Kevin. “Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital.” (In Progress). Replication Files.\n\n\nAbstract\n\nThis paper looks at the use of a coyote during 1994 to 2010 using data from the MMP (in progress). Will update later."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Carson, Kevin. “Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital.” (In Progress). Replication Files.\n\n\nAbstract\n\nThis paper looks at the use of a coyote during 1994 to 2010 using data from the MMP (in progress). Will update later."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\nCarson, Kevin (with Diego F. Leal). 2024. “A Framework for Efficient Computation of Sufficient Statistics in Relational Event Models (REM) Applied to Large Two-Mode Networks”, American Sociological Association 119th Annual Meeting, Montreal, Quebec, Canada.\nCarson, Kevin (with Diego F. Leal). 2024. “Exploring the Social Dynamics of Undocumented Border Crossings: A Study on Coyote Use and Prior Coyote Experience”, American Sociological Association 119th Annual Meeting, Montreal, Quebec, Canada.\nCarson, Kevin (with Diego F. Leal). 2023. “Political Use of Social Media and Offline Protest Participation: Consistent Estimates from Three Different Population-based Surveys in the U.S”, American Sociological Association 118th Annual Meeting, Philadelphia, USA.\nCarson, Kevin. 2021. “Political Usage of Social Media: A Quantitative Study on Protest Participation and Mobilization”, Mid-South Sociological Association Conference, virtual meeting."
+  },
+  {
+    "objectID": "research.html#statistical-software",
+    "href": "research.html#statistical-software",
+    "title": "Research",
+    "section": "Statistical Software",
+    "text": "Statistical Software\nCarson, Kevin and Diego F. Leal. 2025. dream: Dynamic Relational Event Analysis and Modeling. R package version 0.1.0."
+  },
+  {
+    "objectID": "stats_blog/linear_regression.html",
+    "href": "stats_blog/linear_regression.html",
+    "title": "Fun with Statistical Modeling: Linear Regression",
+    "section": "",
+    "text": "This is a holder for the fun with stats linear regression outline. Currently a work in progress."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin A. Carson",
+    "section": "",
+    "text": "Department Homepage 🌵\n  \n  \n    \n     Github\n  \n  \n    \n     Email Me!\n  \n  \n    \n     ORCID\n  \n  \n    \n     CV\n  \n\n  \n  \nI am a PhD student at the University of Arizona’s School of Sociology.\nI am a social scientist interested in examining criminal behavior and international migration from a myriad of analytical frames, such as social network analysis. Trained as a quantitative sociologist, I utilize sociological and criminological theories and employ statistical network models (e.g., relational event models) as well as standard regression techniques (e.g., logistic regression) to examine the intersection of criminal behavior and international migration.\nFor instance, my master’s paper examined the social process of coyotaje at U.S.-Mexico Border from 1994 to 2010 to understand how past migratory experiences can reduce the uncertainty of the illicit market of coyotes for autonomous migrants, given the increasing militarization of the U.S.-Mexico border.\nI am a strong advocate for open science and am committed to reducing barriers to knowledge dissemination. To this end, I make all code for replicating analyses from my peer-reviewed articles publicly available. Please find all replication materials here. On occasion, I share teaching materials on statistical models, aiming to facilitate access to scientific resources.\nYou can reach me directly at kacarson@arizona.edu.\n\n\nUniversity of Arizona | Tucson, AZ  M.A. in Sociology | 2022-2024\nUniversity of South Carolina | Columbia, SC  B.S. in Sociology | 2019-2022\n\n\n\n\nSocial Network Analysis\nOrganized Crime Groups\nInternational Migration\nMathematical Sociology"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kevin A. Carson",
+    "section": "",
+    "text": "University of Arizona | Tucson, AZ  M.A. in Sociology | 2022-2024\nUniversity of South Carolina | Columbia, SC  B.S. in Sociology | 2019-2022"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Kevin A. Carson",
+    "section": "",
+    "text": "Social Network Analysis\nOrganized Crime Groups\nInternational Migration\nMathematical Sociology"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\n\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  }
+]
