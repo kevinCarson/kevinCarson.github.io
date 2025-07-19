@@ -26,4 +26,4 @@ This paper looks at the use of a coyote during 1994 to 2010 using data from the 
 
 
 ## Statistical Software 
-**Carson, Kevin** and [Diego F. Leal](https://www.diegoleal.info/). 2025. *dream: Dynamic Relational Event Analysis and Modeling*. R package version 0.1.0. 
+**Carson, Kevin** and [Diego F. Leal](https://www.diegoleal.info/). 2025. **[dream: Dynamic Relational Event Analysis and Modeling](https://cran.r-project.org/web/packages/dream/index.html)**. R package version 0.1.0. 
