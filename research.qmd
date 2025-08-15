@@ -14,6 +14,10 @@ This paper looks at the use of a coyote during 1994 to 2010 using data from the 
 
 ## Conference Presentations
 
+**Carson, Kevin**  (with [Diego F. Leal](https://www.diegoleal.info/), Jeffrey Shen, [David R. Schaefer](https://sites.google.com/site/drschaef/home), and [Olov Aronson](https://www.kau.se/en/researchers/olov-aronson)). 2025. “Tie Creation and Maintenance and the Link Between Adolescent Depression and Withdrawal in Friendship Networks”, American Sociological Association 120th Annual Meeting, Chicago, Illinois, USA.
+
+**Carson, Kevin**  (with [Diego F. Leal](https://www.diegoleal.info/)). 2025. “Relational Outcome Models: Some Monte Carlo Results”,  American Sociological Association 120th Annual Meeting, Chicago, Illinois, USA.
+
 **Carson, Kevin** (with [Diego F. Leal](https://www.diegoleal.info/)). 2024. “A Framework for Efficient Computation of Sufficient Statistics in Relational Event Models (REM) Applied to Large Two-Mode Networks”, American Sociological Association 119th Annual Meeting, Montreal, Quebec, Canada.
 
 **Carson, Kevin** (with [Diego F. Leal](https://www.diegoleal.info/)). 2024. “Exploring the Social Dynamics of Undocumented Border Crossings: A Study on Coyote Use and Prior Coyote Experience”, American Sociological Association 119th Annual Meeting, Montreal, Quebec, Canada.
