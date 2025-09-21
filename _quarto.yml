@@ -13,8 +13,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: stats_blog.qmd
-        text: Stats Blog
     right:
       - icon: envelope
         href: mailto:kacarson@arizona.edu
@@ -25,9 +23,6 @@ website:
       - text: "<img src='images/ORCID-iD_icon_24x24.png' alt='ORCID' style='height:20px; vertical-align:middle;'>"
         href: https://orcid.org/0009-0001-5762-2586
 
-  announcement: 
-    content: "**News** - Check out the new R package dream for large relational event analysis and modeling! (07-18-2025)" 
-    position: below-navbar 
     
   page-footer: 
     center: "Copyright 2025, Kevin A. Carson" 

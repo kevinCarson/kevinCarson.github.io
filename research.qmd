@@ -6,10 +6,10 @@ toc: true
 
 ## Peer-Reviewed Publications
 **Carson, Kevin**. "Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital."
-(*In Progress*). [Replication Files.](https://github.com/kevinCarson)
+(*Under Review*). [Replication Files.](https://github.com/kevinCarson)
 <details>
 <summary>Abstract</summary>
-This paper looks at the use of a coyote during 1994 to 2010 using data from the MMP (in progress). Will update later.
+This article is an examination of autonomous migrants self-reported utilization of a coyote at the U.S. Mexico border from 1994 to 2010, during which the border became increasingly uncertain for migrants due to the militarization by the U.S. Border Patrol and the advent of border bandits and criminal groups. The full abstract will be updated once the article is beyond peer-review. 
 </details>
 
 ## Conference Presentations
@@ -27,11 +27,10 @@ This paper looks at the use of a coyote during 1994 to 2010 using data from the 
 **Carson, Kevin**. 2021. “Political Usage of Social Media: A Quantitative Study on Protest Participation and Mobilization”, Mid-South Sociological Association Conference, virtual meeting.
 
 
-
-
-## Statistical Software 
+## Open-Source Statistical Software 
 **Carson, Kevin** and [Diego F. Leal](https://www.diegoleal.info/). 2025. **[dream: Dynamic Relational Event Analysis and Modeling](https://cran.r-project.org/web/packages/dream/index.html)**. R package version 0.1.0. 
 <a href="https://cran.r-project.org/web/packages/dream/index.html">
   <img src="https://cranlogs.r-pkg.org/badges/grand-total/dream" alt="CRAN downloads">
 </a>
 </p>
+

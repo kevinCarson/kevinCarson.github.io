@@ -25,14 +25,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Carson, Kevin. “Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital.” (In Progress). Replication Files.\n\n\nAbstract\n\nThis paper looks at the use of a coyote during 1994 to 2010 using data from the MMP (in progress). Will update later."
+    "text": "Carson, Kevin. “Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital.” (Under Review). Replication Files.\n\n\nAbstract\n\nThis article is an examination of autonomous migrants self-reported utilization of a coyote at the U.S. Mexico border from 1994 to 2010, during which the border became increasingly uncertain for migrants due to the militarization by the U.S. Border Patrol and the advent of border bandits and criminal groups. The full abstract will be updated once the article is beyond peer-review."
   },
   {
     "objectID": "research.html#peer-reviewed-publications",
     "href": "research.html#peer-reviewed-publications",
     "title": "Research",
     "section": "",
-    "text": "Carson, Kevin. “Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital.” (In Progress). Replication Files.\n\n\nAbstract\n\nThis paper looks at the use of a coyote during 1994 to 2010 using data from the MMP (in progress). Will update later."
+    "text": "Carson, Kevin. “Coyotaje in an Uncertain Social Environment: Prior Coyote Experience as a Form of Migration-Specific Human Capital.” (Under Review). Replication Files.\n\n\nAbstract\n\nThis article is an examination of autonomous migrants self-reported utilization of a coyote at the U.S. Mexico border from 1994 to 2010, during which the border became increasingly uncertain for migrants due to the militarization by the U.S. Border Patrol and the advent of border bandits and criminal groups. The full abstract will be updated once the article is beyond peer-review."
   },
   {
     "objectID": "research.html#conference-presentations",
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Kevin A. Carson",
     "section": "",
-    "text": "Department Homepage 🌵\n  \n  \n    \n     Github\n  \n  \n    \n     Email Me!\n  \n  \n    \n     ORCID\n  \n  \n    \n     CV\n  \n\n  \n  \nI am a PhD student at the University of Arizona’s School of Sociology.\nI am a social scientist interested in examining criminal behavior and international migration from a myriad of analytical frames, such as social network analysis. Trained as a quantitative sociologist, I utilize sociological and criminological theories and employ statistical network models (e.g., relational event models) as well as standard regression techniques (e.g., logistic regression) to examine the intersection of criminal behavior and international migration.\nFor instance, my master’s paper examined the social process of coyotaje at U.S.-Mexico Border from 1994 to 2010 to understand how past migratory experiences can reduce the uncertainty of the illicit market of coyotes for autonomous migrants, given the increasing militarization of the U.S.-Mexico border.\nI am a strong advocate for open science and am committed to reducing barriers to knowledge dissemination. To this end, I make all code for replicating analyses from my peer-reviewed articles publicly available. Please find all replication materials here. On occasion, I share teaching materials on statistical models, aiming to facilitate access to scientific resources.\nYou can reach me directly at kacarson@arizona.edu.\n\n\nUniversity of Arizona | Tucson, AZ  M.A. in Sociology | 2022-2024\nUniversity of South Carolina | Columbia, SC  B.S. in Sociology | 2019-2022\n\n\n\n\nSocial Network Analysis\nOrganized Crime Groups\nInternational Migration\nMathematical Sociology"
+    "text": "Department Homepage 🌵\n  \n  \n    \n     Github\n  \n  \n    \n     Email Me!\n  \n  \n    \n     ORCID\n  \n  \n    \n     CV\n  \n\n  \n  \nI am a PhD candidate at the University of Arizona’s School of Sociology.\nAs a sociologist, I have a broad substantive interest in examining patterns of criminal behavior and international migration. Recently, I’ve begun to examine predictors of drug-trafficking related homicide rates in Mexico from 2000 to 2022. I also have a strong methodological interest in advancing methods for the analysis of social networks, especially methods for the analysis of two-mode networks.\nAt the intersection of my substantive interests, my recent master’s paper examined the social process of coyotaje at U.S.-Mexico Border from 1994 to 2010 to understand how past migratory experiences can reduce the uncertainty of the illicit market of coyotes for autonomous migrants, given the increasing militarization of the U.S.-Mexico border. Recently, I’ve begun an analysis of relational predictors of drug-trafficking related homicides in Mexico from 2000 to 2022.\nI am a strong advocate for open science. In particular, as a proponent of open science, I 1) make all code for replicating analyses from my peer-reviewed articles publicly available, 2) upload teaching materials on statistical models most commonly used in sociology, and 3) actively work on developing functions for the free and open-access statistical software R.\nFeel free to reach me directly at kacarson@arizona.edu.\n\n\nUniversity of Arizona | Tucson, AZ  M.A. in Sociology | 2022-2024\nUniversity of South Carolina | Columbia, SC  B.S. in Sociology | 2019-2022\n\n\n\n\nSocial Network Analysis\nOrganized Criminal Groups\nInternational Migration\nSpatial Econometrics"
   },
   {
     "objectID": "index.html#education",
@@ -74,7 +74,7 @@
     "href": "index.html#research-interests",
     "title": "Kevin A. Carson",
     "section": "",
-    "text": "Social Network Analysis\nOrganized Crime Groups\nInternational Migration\nMathematical Sociology"
+    "text": "Social Network Analysis\nOrganized Criminal Groups\nInternational Migration\nSpatial Econometrics"
   },
   {
     "objectID": "about.html",
@@ -96,5 +96,12 @@
     "title": "About",
     "section": "",
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "research.html#open-source-statistical-software",
+    "href": "research.html#open-source-statistical-software",
+    "title": "Research",
+    "section": "Open-Source Statistical Software",
+    "text": "Open-Source Statistical Software\nCarson, Kevin and Diego F. Leal. 2025. dream: Dynamic Relational Event Analysis and Modeling. R package version 0.1.0."
   }
 ]
