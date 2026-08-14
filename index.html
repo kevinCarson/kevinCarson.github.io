@@ -1,109 +1,282 @@
 <!DOCTYPE html>
-<!--
-    Plain-Academic by Vasilios Mavroudis
-    Released under the Simplified BSD License/FreeBSD (2-clause) License.
-    https://github.com/mavroudisv/plain-academic
+  <!--
+  Plain-Academic by Vasilios Mavroudis
+Released under the Simplified BSD License/FreeBSD (2-clause) License.
+https://github.com/mavroudisv/plain-academic
 -->
-
-<html lang="en">
-<head>
+  
+  <html lang="en">
+  <head>
   <title>Kevin A. Carson</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="niko_sctrip.jpg">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-
-
-<!-- Navigation -->
-	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
-	  <div class="container">
-		<div class="navbar-header">
-		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-		</div>
-
-		<!-- Collect the nav links, forms, and other content for toggling -->
-		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-		  <ul class="nav navbar-nav">
-				  <li><a href="index.html">Home</a></li>
-				  <li><a href="#">Projects</a></li>
-				  <li><a href="#publications">Publications</a></li> 
-				  <li><a href="#">CV</a></li> 
-		  </ul>
-		</div>
-	  </div>
-	</nav>
   
-  <!-- Page Content -->
-    <div class="container">
-
-        <div class="row">
-
-            <!-- Entries Column -->
-            <div class="col-md-8" style="height: 100vh;">
-                
-                <!-- Main Image -->
-                <img class="img-responsive" src="photo.gif" alt=""><br>
-                
-                <div style="margin-top:3%; text-align:justify;">                
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing <a href="#">elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					
-					<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-					
-					<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-                </div>
-            </div> 
-
-            <!-- Contact Info on the Sidebar -->
-            <div class="col-md-4">
-                <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>John Doe</b></div><br>
-                <p><b>john at doe.com</b><br>
-                <p>Random Department<br>
-                University of Randomness<br>
-                Street<br>
-                City <br>
-                Country<br>
-                </p>
-            </div>
-            
-            
-            <!-- Links on the Sidebar -->
-            <div class="col-md-4" style="margin-top:2%">
-              <dd><a href="#">Google Scholar</a></dd> 
-              <dd><a href="#">Twitter</a></dd>
-              <dd><a href="#">LinkedIn</a></dd>
-            </div>
-            
-            
-            <!-- Publications -->
-            <div class="col-md-8" style="height: 100vh;">    
-                <h2 id="publications">Publications</h2>
-                
-                <strong>Peer-reviewed</strong><br/>
-                <ul>
-                <li class="paper" words="add, your, keywords, here"><a href="#">Full title</a> Names of the authors</li>
-                </ul>
-            
-                <strong>Technical Reports</strong><br/>
-                <ul>
-                <li class="paper" words="add, your, keywords, here"><a href="#">Full title</a>. Details of the report</li>
-                </ul>
-            </div>
-
-            
-        </div>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+  
+  <style>
+  
+  /* =========================
+  GENERAL PAGE
+========================= */
+  
+body {
+  margin: 0;
+  background: #242325;
+  font-family: "Times New Roman", Times, serif;
+  color: #2B2B2B;
+}
 
 
-    </div>
-    <!-- /.container -->
+/* =========================
+  NAVIGATION
+========================= */
+  
+  .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color:  #242325 !important;
+      border: none !important;
+  }
+
+.navbar .navbar-nav > li > a {
+  color: #F5F1EA !important;
+    font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.navbar .navbar-nav > li > a:hover {
+  color: red !important;
+    background-color: transparent !important;
+}
+
+
+/* =========================
+  HERO IMAGE
+========================= */
+
+.hero {
+  height: 60vh;
+  background-image: url("IMG_2072.jpeg");
+  background-size: cover;
+  background-position: center 50%;
+  background-repeat: no-repeat;
+}
+
+
+/* =========================
+  MAIN PROFILE AREA
+========================= */
+  
+  .profile {
+    max-width: 1100px;
+    margin: -100px auto 0 auto;
+    padding: 45px;
+    background: #FAF9F6;
+      position: relative;
+  }
+
+
+/* =========================
+  LINKS
+========================= */
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+
+a:hover {
+  color: #92140C;
+    text-decoration: underline;
+}
+
+
+/* =========================
+  NAME
+========================= */
+  
+  .name {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+
+/* =========================
+  CONTACT INFORMATION
+========================= */
+  
+  .contact {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+</style>
+  
+  </head>
+  
+  <body>
+  
+  
+  <!-- =========================
+  NAVIGATION
+========================= -->
+  
+  <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+  
+  <div class="container">
+  
+  <div class="navbar-header">
+  
+  <button type="button"
+class="navbar-toggle collapsed"
+data-toggle="collapse"
+data-target="#bs-example-navbar-collapse-1">
+  
+  <span class="sr-only">Toggle navigation</span>
+  <span class="icon-bar"></span>
+  <span class="icon-bar"></span>
+  <span class="icon-bar"></span>
+  
+  </button>
+  
+  </div>
+  
+  
+  <div class="collapse navbar-collapse"
+id="bs-example-navbar-collapse-1">
+  
+  <ul class="nav navbar-nav navbar-right">
+  
+  <li>
+  <a href="index.html">Home</a>
+  </li>
+    <li>
+  <a href="research.html">Research</a>
+  </li>
+  <li>
+  <a href="https://raw.githubusercontent.com/kevinCarson/CVitae/main/Carson_CV.pdf">
+  Curriculm Vitae
+</a>
+  </li>
+  
+
+  
+  </ul>
+  
+  </div>
+  
+  </div>
+  
+  </nav>
+  
+  
+  <!-- =========================
+  HERO IMAGE
+========================= -->
+  
+  <div class="hero"></div>
+  
+  
+  <!-- =========================
+  PAGE CONTENT
+========================= -->
+  
+  <div class="profile">
+  
+  <div class="row">
+  
+  
+  <!-- Contact Info -->
+  
+  <div class="col-md-4">
+  
+
+  
+  <div class="contact">
+    
+    
+<img src="Headshot_prof_110624.jpg"
+     alt="Kevin A. Carson"
+     width="325"><br><br>
+     
+       <div class="name">
+  Kevin A. Carson
+</div>
+
+  <b> <a href="https://sociology.arizona.edu/person/kevin-carson">PhD Candidate</a></b><br>
+  
+  <a href="https://sociology.arizona.edu/">
+  School of Sociology
+</a><br>
+  University of Arizona<br>
+  Tucson, Arizona 🌵 <br><br>
+  <i class="fa-solid fa-envelope"></i><a href="mailto:kacarson@arizona.edu"> Email </a><br>
+      <i class="fa-regular fa-file" ></i><a href="https://raw.githubusercontent.com/kevinCarson/CVitae/main/Carson_CV.pdf"> Download Curriculum Vitae</a> <br>
+
+     <i class="fa-brands fa-github" ></i><a href="https://github.com/kevinCarson"> Github </a> <br>
+     <i class="fa-brands fa-orcid" ></i><a href="https://orcid.org/0009-0001-5762-2586"> ORCID </a> <br>
+     <i class="fa-brands fa-google-scholar" ></i><a href="https://scholar.google.com/citations?user=5Eb3N20AAAAJ&hl=en"> Google Scholar</a><br>
+
+  
+  </div>
+  
+  </div>
+  
+  
+  <!-- Main Content -->
+  
+  <div class="col-md-8">
+  
+  <div style="text-align: justify; font-size: 18px;">
+  
+
+   <p> <strong>Research Interests</strong>: Statistical Network Modeling, Social Network Analysis, Crime and Criminal Violence, 
+  International and Unauthorized Migration </p><br>
+
+   
+      As a sociologist, I have a broad substantive interest in examining patterns of 
+      <em>criminal behavior</em> and  <em>international migration</em>. My dissertation
+      examines the factors assocaited with (1) drug-trafficking related homicide rates in Mexico from 2010 to 2018,
+      and (2) the temporal network structure of inter-cartel battles for territoral control. In addition, I am 
+      also interested in advancing methods for the analysis of <em>social networks</em>, especially methods for 
+      the analysis of two-mode networks (e.g., brokerage). 
+      
+      
+      <br>
+           <br>
+      
+      At the intersection of my substantive interests, my <a href="https://doi.org/10.1080/1369183X.2025.2592627"> recent publication </a> in 
+      the <em>Journal of Ethnic and Migration Studies</em> examined the social process of coyotaje at U.S.-Mexico Border from 1994 to 
+      2010 to understand how past migratory experiences can reduce the uncertainty of the illicit 
+      market of coyotes for autonomous migrants, given the increasing militarization of the U.S.-Mexico border.  
+
+<br><br>
+    I am a strong advocate for open science. In particular, as a proponent of open 
+    science, I 1) make all code for replicating analyses from my peer-reviewed 
+    articles publicly <a href = https://github.com/kevinCarson> available</a>, and 2) actively work on developing functions for the free and 
+    open-access statistical software <a href = https://cran.r-project.org/> R</a> (i.e., the <a href = https://cran.r-project.org/web/packages/dream/index.html> dream</a> and <a href = https://cran.r-project.org/web/packages/netpanel/index.html> netpanel</a> R packages).
+
+<br><br>
+
+Feel free to reach me directly at <a href="mailto:kacarson@arizona.edu"> kacarson@arizona.edu</a>.
+  
+  </div>
+  
+  </div>
+  
+  </div>
+  
+  </div>
+  
+  
+  <!-- Footer -->
     
     <!-- Other people may like it too! -->
     <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic">Plain Academic</a> 
